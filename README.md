@@ -56,6 +56,10 @@ To install:
 $ pip install ipywebrtc                             # will auto enable for notebook >= 5.3
 $ jupyter labextension install jupyter-webrtc       # for jupyter lab
 ```
+or
+```
+$ conda install -c conda-forge ipywebrtc
+```
 
 For a development installation (requires npm),
 
